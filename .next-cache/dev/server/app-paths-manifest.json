@@ -1,1 +1,6 @@
-{}
+{
+  "/api/emails/[uid]/route": "app/api/emails/[uid]/route.js",
+  "/api/emails/send/route": "app/api/emails/send/route.js",
+  "/api/emails/inbox/route": "app/api/emails/inbox/route.js",
+  "/page": "app/page.js"
+}

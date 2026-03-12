@@ -15,19 +15,43 @@ function extractEmailAddress(from: string): string {
   return from.trim();
 }
 
-function buildReplyDraft(mail: Pick<MailEnvelope, "from" | "subject">): ComposeDraft {
+function stripHtml(html: string): string {
+  return html
+    .replace(/<style[\s\S]*?<\/style>/gi, "")
+    .replace(/<script[\s\S]*?<\/script>/gi, "")
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<\/p>/gi, "\n")
+    .replace(/<[^>]+>/g, "")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function getMailText(mail: { text?: string; html?: string }): string {
+  if (mail.text?.trim()) return mail.text.trim();
+  if (mail.html?.trim()) return stripHtml(mail.html);
+  return "";
+}
+
+function buildReplyDraft(mail: Pick<MailEnvelope, "from" | "subject" | "date"> & { text?: string; html?: string }): ComposeDraft {
   const to = extractEmailAddress(mail.from);
   const subject = mail.subject.toLowerCase().startsWith("re:")
     ? mail.subject
     : `Re: ${mail.subject}`;
-  return { to, subject, body: "\n\n---\n" };
+  const originalText = getMailText(mail);
+  const quoted = originalText
+    ? originalText.split("\n").map((line) => `> ${line}`).join("\n")
+    : "";
+  const replyHeader = `Am ${new Date(mail.date).toLocaleString("de-DE")} schrieb ${mail.from}:`;
+  const body = `\n\n${replyHeader}\n${quoted}`.trimStart();
+  return { to, subject, body };
 }
 
-function buildForwardDraft(mail: Pick<MailEnvelope, "subject"> & { text?: string }): ComposeDraft {
+function buildForwardDraft(mail: Pick<MailEnvelope, "subject" | "from" | "date"> & { text?: string; html?: string }): ComposeDraft {
   const subject = mail.subject.toLowerCase().startsWith("fwd:")
     ? mail.subject
     : `Fwd: ${mail.subject}`;
-  const body = `\n\n--- Weitergeleitete Nachricht ---\n${mail.text ?? ""}`;
+  const originalText = getMailText(mail);
+  const body = `\n\n--- Weitergeleitete Nachricht ---\nVon: ${mail.from}\nDatum: ${new Date(mail.date).toLocaleString("de-DE")}\nBetreff: ${mail.subject}\n\n${originalText}`.trimStart();
   return { to: "", subject, body };
 }
 
@@ -38,13 +62,26 @@ export default function Home() {
   const [composeDraft, setComposeDraft] = useState<ComposeDraft | null>(null);
   const [refreshToken, setRefreshToken] = useState(0);
 
-  const handleReplyFromList = (mail: MailEnvelope) => {
-    setComposeDraft(buildReplyDraft(mail));
+  const fetchFullMail = async (mail: MailEnvelope): Promise<MailMessage | null> => {
+    try {
+      const res = await fetch(`/api/emails/${mail.uid}?folder=${encodeURIComponent(activeTab)}`);
+      if (!res.ok) return null;
+      const full = await res.json();
+      return full as MailMessage;
+    } catch {
+      return null;
+    }
+  };
+
+  const handleReplyFromList = async (mail: MailEnvelope) => {
+    const fullMail = await fetchFullMail(mail);
+    setComposeDraft(buildReplyDraft(fullMail ?? mail));
     setComposeOpen(true);
   };
 
-  const handleForwardFromList = (mail: MailEnvelope) => {
-    setComposeDraft(buildForwardDraft(mail));
+  const handleForwardFromList = async (mail: MailEnvelope) => {
+    const fullMail = await fetchFullMail(mail);
+    setComposeDraft(buildForwardDraft(fullMail ?? mail));
     setComposeOpen(true);
   };
 

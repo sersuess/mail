@@ -1,8 +1,24 @@
 {
   "folders": {
     "INBOX": {
-      "updatedAt": 1773248939285,
+      "updatedAt": 1773337381173,
       "emails": [
+        {
+          "uid": 6,
+          "subject": "Re: (Kein Betreff)Termin Physio",
+          "from": "Sergej Süss <ser.suess@googlemail.com>",
+          "date": "2026-03-12T17:42:18.000Z",
+          "flags": [
+            "\\Recent"
+          ]
+        },
+        {
+          "uid": 5,
+          "subject": "Re: test Seregejj",
+          "from": "Sergej Süss <ser.suess@googlemail.com>",
+          "date": "2026-03-12T16:33:29.000Z",
+          "flags": []
+        },
         {
           "uid": 4,
           "subject": "Re: test",
@@ -20,8 +36,22 @@
       ]
     },
     "OUTBOX": {
-      "updatedAt": 1773248938678,
+      "updatedAt": 1773337383485,
       "emails": [
+        {
+          "uid": 6,
+          "subject": "Re: (Kein Betreff)Termin Physio",
+          "from": "Sergej Süss <ser.suess@googlemail.com>",
+          "date": "2026-03-12T17:42:18.000Z",
+          "flags": []
+        },
+        {
+          "uid": 5,
+          "subject": "Re: test Seregejj",
+          "from": "Sergej Süss <ser.suess@googlemail.com>",
+          "date": "2026-03-12T16:33:29.000Z",
+          "flags": []
+        },
         {
           "uid": 4,
           "subject": "Re: test",
@@ -39,7 +69,7 @@
       ]
     },
     "ARCHIV": {
-      "updatedAt": 1773248940299,
+      "updatedAt": 1773337386440,
       "emails": [
         {
           "uid": 1,
@@ -53,7 +83,7 @@
   },
   "details": {
     "INBOX:2": {
-      "updatedAt": 1773244970403,
+      "updatedAt": 1773333160284,
       "email": {
         "uid": 2,
         "subject": "(Kein Betreff)",
@@ -101,7 +131,7 @@
       }
     },
     "INBOX:4": {
-      "updatedAt": 1773248412374,
+      "updatedAt": 1773333829191,
       "email": {
         "uid": 4,
         "subject": "(Kein Betreff)",
@@ -110,6 +140,54 @@
         "flags": [],
         "html": "<div dir=\"auto\">Top</div><div dir=\"auto\">Danke für die Email<br clear=\"all\"><br clear=\"all\"><div dir=\"auto\"><div dir=\"ltr\" class=\"gmail_signature\" data-smartmail=\"gmail_signature\">Mit freundlichen Grüßen <br><br>Sergej Süss</div></div></div><div><br></div><div><br><div class=\"gmail_quote gmail_quote_container\"><div dir=\"ltr\" class=\"gmail_attr\">&lt;<a href=\"mailto:test.ser.physio@mrt-kompetenzzentrum.de\">test.ser.physio@mrt-kompetenzzentrum.de</a>&gt; schrieb am Mi. 11. März 2026 um 16:55:<br></div><blockquote class=\"gmail_quote\" style=\"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex\">hallo</blockquote></div></div>\n",
         "text": "Top\nDanke für die Email\n\nMit freundlichen Grüßen\n\nSergej Süss\n\n\n<test.ser.physio@mrt-kompetenzzentrum.de> schrieb am Mi. 11. März 2026 um\n16:55:\n\n> hallo\n"
+      }
+    },
+    "INBOX:5": {
+      "updatedAt": 1773337281189,
+      "email": {
+        "uid": 5,
+        "subject": "(Kein Betreff)",
+        "from": "",
+        "date": "",
+        "flags": [],
+        "html": "<div dir=\"auto\">Tooooolll<br clear=\"all\"><br clear=\"all\"><div><div dir=\"ltr\" class=\"gmail_signature\" data-smartmail=\"gmail_signature\">Mit freundlichen Grüßen <br><br>Sergej Süss</div></div></div><div><br></div><div><br><div class=\"gmail_quote gmail_quote_container\"><div dir=\"ltr\" class=\"gmail_attr\">&lt;<a href=\"mailto:test.ser.physio@mrt-kompetenzzentrum.de\">test.ser.physio@mrt-kompetenzzentrum.de</a>&gt; schrieb am Do. 12. März 2026 um 17:33:<br></div><blockquote class=\"gmail_quote\" style=\"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex\">Hallo Sergej TEtttttttttstssssttt\n\n---</blockquote></div></div>\n",
+        "text": "Tooooolll\n\nMit freundlichen Grüßen\n\nSergej Süss\n\n\n<test.ser.physio@mrt-kompetenzzentrum.de> schrieb am Do. 12. März 2026 um\n17:33:\n\n> Hallo Sergej TEtttttttttstssssttt ---\n"
+      }
+    },
+    "OUTBOX:5": {
+      "updatedAt": 1773337313097,
+      "email": {
+        "uid": 5,
+        "subject": "(Kein Betreff)",
+        "from": "",
+        "date": "",
+        "flags": [],
+        "html": "<div dir=\"auto\">Tooooolll<br clear=\"all\"><br clear=\"all\"><div><div dir=\"ltr\" class=\"gmail_signature\" data-smartmail=\"gmail_signature\">Mit freundlichen Grüßen <br><br>Sergej Süss</div></div></div><div><br></div><div><br><div class=\"gmail_quote gmail_quote_container\"><div dir=\"ltr\" class=\"gmail_attr\">&lt;<a href=\"mailto:test.ser.physio@mrt-kompetenzzentrum.de\">test.ser.physio@mrt-kompetenzzentrum.de</a>&gt; schrieb am Do. 12. März 2026 um 17:33:<br></div><blockquote class=\"gmail_quote\" style=\"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex\">Hallo Sergej TEtttttttttstssssttt\n\n---</blockquote></div></div>\n",
+        "text": "Tooooolll\n\nMit freundlichen Grüßen\n\nSergej Süss\n\n\n<test.ser.physio@mrt-kompetenzzentrum.de> schrieb am Do. 12. März 2026 um\n17:33:\n\n> Hallo Sergej TEtttttttttstssssttt ---\n"
+      }
+    },
+    "OUTBOX:6": {
+      "updatedAt": 1773337389962,
+      "email": {
+        "uid": 6,
+        "subject": "(Kein Betreff)",
+        "from": "",
+        "date": "",
+        "flags": [],
+        "html": "<div dir=\"auto\">Termin bestätigt ✅ <br clear=\"all\"><br clear=\"all\"><div><div dir=\"ltr\" class=\"gmail_signature\" data-smartmail=\"gmail_signature\">Mit freundlichen Grüßen <br><br>Sergej Süss</div></div></div><div><br></div><div><br><div class=\"gmail_quote gmail_quote_container\"><div dir=\"ltr\" class=\"gmail_attr\">&lt;<a href=\"mailto:test.ser.physio@mrt-kompetenzzentrum.de\">test.ser.physio@mrt-kompetenzzentrum.de</a>&gt; schrieb am Do. 12. März 2026 um 18:41:<br></div><blockquote class=\"gmail_quote\" style=\"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex\">--- Weitergeleitete Nachricht ---\nVon: \nDatum: Invalid Date\nBetreff: (Kein Betreff)\n\nTooooolll\n\nMit freundlichen Grüßen\n\nSergej Süss\n\n\n<u></u> schrieb am Do. 12. März 2026 um\n17:33:\n\n&gt; Hallo Sergej TEtttttttttstssssttt ---</blockquote></div></div>\n",
+        "text": "Termin bestätigt ✅\n\nMit freundlichen Grüßen\n\nSergej Süss\n\n\n<test.ser.physio@mrt-kompetenzzentrum.de> schrieb am Do. 12. März 2026 um\n18:41:\n\n> --- Weitergeleitete Nachricht --- Von: Datum: Invalid Date Betreff: (Kein\n> Betreff) Tooooolll Mit freundlichen Grüßen Sergej Süss schrieb am Do. 12.\n> März 2026 um 17:33: > Hallo Sergej TEtttttttttstssssttt ---\n"
+      }
+    },
+    "INBOX:6": {
+      "updatedAt": 1773337394202,
+      "email": {
+        "uid": 6,
+        "subject": "(Kein Betreff)",
+        "from": "",
+        "date": "",
+        "flags": [],
+        "html": "<div dir=\"auto\">Termin bestätigt ✅ <br clear=\"all\"><br clear=\"all\"><div><div dir=\"ltr\" class=\"gmail_signature\" data-smartmail=\"gmail_signature\">Mit freundlichen Grüßen <br><br>Sergej Süss</div></div></div><div><br></div><div><br><div class=\"gmail_quote gmail_quote_container\"><div dir=\"ltr\" class=\"gmail_attr\">&lt;<a href=\"mailto:test.ser.physio@mrt-kompetenzzentrum.de\">test.ser.physio@mrt-kompetenzzentrum.de</a>&gt; schrieb am Do. 12. März 2026 um 18:41:<br></div><blockquote class=\"gmail_quote\" style=\"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex\">--- Weitergeleitete Nachricht ---\nVon: \nDatum: Invalid Date\nBetreff: (Kein Betreff)\n\nTooooolll\n\nMit freundlichen Grüßen\n\nSergej Süss\n\n\n<u></u> schrieb am Do. 12. März 2026 um\n17:33:\n\n&gt; Hallo Sergej TEtttttttttstssssttt ---</blockquote></div></div>\n",
+        "text": "Termin bestätigt ✅\n\nMit freundlichen Grüßen\n\nSergej Süss\n\n\n<test.ser.physio@mrt-kompetenzzentrum.de> schrieb am Do. 12. März 2026 um\n18:41:\n\n> --- Weitergeleitete Nachricht --- Von: Datum: Invalid Date Betreff: (Kein\n> Betreff) Tooooolll Mit freundlichen Grüßen Sergej Süss schrieb am Do. 12.\n> März 2026 um 17:33: > Hallo Sergej TEtttttttttstssssttt ---\n"
       }
     }
   }

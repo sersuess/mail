@@ -135,7 +135,7 @@ export function ComposeForm({
               placeholder="Nachricht..."
               value={body}
               onChange={(e) => setBody(e.target.value)}
-              className="min-h-[320px] resize-y rounded-xl"
+              className="h-[320px] max-h-[60vh] resize-y overflow-y-auto rounded-xl"
               required
             />
               </div>

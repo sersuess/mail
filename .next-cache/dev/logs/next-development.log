@@ -1,1 +1,83 @@
-[00:00:03.336] Server  LOG     ✓ Ready in 2.6s
+[00:00:03.335] Server  LOG     ✓ Ready in 2.7s
+[00:00:27.960] Server  LOG     ○ Compiling / ...
+[00:00:35.462] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:54.054] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:55.410] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:16.423] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:17.684] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:47.061] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:50.398] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:51.536] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:52.902] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:53.895] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:58.090] Browser ERROR   ./app/page.tsx
+Module parse failed: Identifier 'buildReplyDraft' has already been declared (32:9)
+|     return "";
+| }
+> function buildReplyDraft(mail) {
+|     const to = extractEmailAddress(mail.from);
+|     const subject = mail.subject.toLowerCase().startsWith("re:") ? mail.subject : `Re: ${mail.subject}`;
+
+Import trace for requested module:
+./app/page.tsx
+[00:13:58.852] Browser ERROR   ./app/page.tsx
+Module parse failed: Identifier 'buildReplyDraft' has already been declared (31:9)
+|     return "";
+| }
+> function buildReplyDraft(mail) {
+|     const to = extractEmailAddress(mail.from);
+|     const subject = mail.subject.toLowerCase().startsWith("re:") ? mail.subject : `Re: ${mail.subject}`;
+
+Import trace for requested module:
+./app/page.tsx
+[00:13:58.887] Server  ERROR   ⨯ ./app/page.tsx
+Module parse failed: Identifier 'buildReplyDraft' has already been declared (32:9)
+|     return "";
+| }
+> function buildReplyDraft(mail) {
+|     const to = extractEmailAddress(mail.from);
+|     const subject = mail.subject.toLowerCase().startsWith("re:") ? mail.subject : `Re: ${mail.subject}`;
+
+Import trace for requested module:
+./app/page.tsx
+[00:13:59.391] Browser ERROR   ./app/page.tsx
+Module parse failed: Identifier 'buildReplyDraft' has already been declared (32:9)
+|     return "";
+| }
+> function buildReplyDraft(mail) {
+|     const to = extractEmailAddress(mail.from);
+|     const subject = mail.subject.toLowerCase().startsWith("re:") ? mail.subject : `Re: ${mail.subject}`;
+
+Import trace for requested module:
+./app/page.tsx
+[00:13:59.391] Browser ERROR   ./app/page.tsx
+Module parse failed: Identifier 'buildReplyDraft' has already been declared (31:9)
+|     return "";
+| }
+> function buildReplyDraft(mail) {
+|     const to = extractEmailAddress(mail.from);
+|     const subject = mail.subject.toLowerCase().startsWith("re:") ? mail.subject : `Re: ${mail.subject}`;
+
+Import trace for requested module:
+./app/page.tsx
+[00:14:05.046] Browser ERROR   ./app/page.tsx
+Module parse failed: Identifier 'buildReplyDraft' has already been declared (32:9)
+|     return "";
+| }
+> function buildReplyDraft(mail) {
+|     const to = extractEmailAddress(mail.from);
+|     const subject = mail.subject.toLowerCase().startsWith("re:") ? mail.subject : `Re: ${mail.subject}`;
+
+Import trace for requested module:
+./app/page.tsx
+[00:14:07.681] Browser ERROR   ./app/page.tsx
+Module parse failed: Identifier 'buildReplyDraft' has already been declared (32:9)
+|     return "";
+| }
+> function buildReplyDraft(mail) {
+|     const to = extractEmailAddress(mail.from);
+|     const subject = mail.subject.toLowerCase().startsWith("re:") ? mail.subject : `Re: ${mail.subject}`;
+
+Import trace for requested module:
+./app/page.tsx
+[00:19:53.853] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
