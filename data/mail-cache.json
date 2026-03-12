@@ -1,0 +1,116 @@
+{
+  "folders": {
+    "INBOX": {
+      "updatedAt": 1773248939285,
+      "emails": [
+        {
+          "uid": 4,
+          "subject": "Re: test",
+          "from": "Sergej Süss <ser.suess@googlemail.com>",
+          "date": "2026-03-11T15:55:48.000Z",
+          "flags": []
+        },
+        {
+          "uid": 2,
+          "subject": "AW: Test incoming...",
+          "from": "suess@mrt-kompetenzzentrum.de",
+          "date": "2026-03-11T14:31:39.000Z",
+          "flags": []
+        }
+      ]
+    },
+    "OUTBOX": {
+      "updatedAt": 1773248938678,
+      "emails": [
+        {
+          "uid": 4,
+          "subject": "Re: test",
+          "from": "Sergej Süss <ser.suess@googlemail.com>",
+          "date": "2026-03-11T15:55:48.000Z",
+          "flags": []
+        },
+        {
+          "uid": 2,
+          "subject": "AW: Test incoming...",
+          "from": "suess@mrt-kompetenzzentrum.de",
+          "date": "2026-03-11T14:31:39.000Z",
+          "flags": []
+        }
+      ]
+    },
+    "ARCHIV": {
+      "updatedAt": 1773248940299,
+      "emails": [
+        {
+          "uid": 1,
+          "subject": "Test incoming...",
+          "from": "suess@mrt-kompetenzzentrum.de",
+          "date": "2026-03-11T13:34:04.000Z",
+          "flags": []
+        }
+      ]
+    }
+  },
+  "details": {
+    "INBOX:2": {
+      "updatedAt": 1773244970403,
+      "email": {
+        "uid": 2,
+        "subject": "(Kein Betreff)",
+        "from": "",
+        "date": "",
+        "flags": [],
+        "html": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=Content-Type content=\"text/html; charset=utf-8\"><meta name=Generator content=\"Microsoft Word 15 (filtered medium)\"><style><!--\n/* Font Definitions */\n@font-face\n\t{font-family:\"Cambria Math\";\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;}\n@font-face\n\t{font-family:Calibri;\n\tpanose-1:2 15 5 2 2 2 4 3 2 4;}\n/* Style Definitions */\np.MsoNormal, li.MsoNormal, div.MsoNormal\n\t{margin:0cm;\n\tfont-size:11.0pt;\n\tfont-family:\"Calibri\",sans-serif;\n\tmso-fareast-language:EN-US;}\nspan.E-MailFormatvorlage17\n\t{mso-style-type:personal-reply;\n\tfont-family:\"Calibri\",sans-serif;\n\tcolor:windowtext;}\n.MsoChpDefault\n\t{mso-style-type:export-only;\n\tfont-family:\"Calibri\",sans-serif;\n\tmso-fareast-language:EN-US;}\n@page WordSection1\n\t{size:612.0pt 792.0pt;\n\tmargin:70.85pt 70.85pt 2.0cm 70.85pt;}\ndiv.WordSection1\n\t{page:WordSection1;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext=\"edit\" spidmax=\"1026\" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext=\"edit\">\n<o:idmap v:ext=\"edit\" data=\"1\" />\n</o:shapelayout></xml><![endif]--></head><body lang=DE link=\"#0563C1\" vlink=\"#954F72\" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal><span lang=RU>Классно, я могу принимать письма<o:p></o:p></span></p><p class=MsoNormal><span lang=RU><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Mit freundlichen Grüßen<o:p></o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Sergej Süss<o:p></o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><b><span style='font-size:9.0pt;color:#767171;mso-fareast-language:DE'>MRT Kompetenzzentrum<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:9.0pt;color:#767171;mso-fareast-language:DE'>Schloss Werneck<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Balthasar-Neumann-Platz 1<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>97440 Werneck<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Tel.: +49 (0)9722 94 73 24<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Fax</span></b><b><span style='font-size:5.0pt;color:#AEAAAA;mso-fareast-language:DE'> </span></b><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>: +49 (0)9722 94 73 26<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>E-Mail: <a href=\"mailto:info@mrt-kompetenzzentrum.de\"><span style='color:#AEAAAA'>info@mrt-kompetenzzentrum.de</span></a><o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Web:&nbsp;&nbsp;&nbsp; <a href=\"http://www.mrt-kompetenzzentrum.de/\"><span style='color:#AEAAAA'>www.mrt-kompetenzzentrum.de</span></a><o:p></o:p></span></b></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='mso-fareast-language:DE'>Von:</span></b><span style='mso-fareast-language:DE'> test.ser.physio@mrt-kompetenzzentrum.de &lt;test.ser.physio@mrt-kompetenzzentrum.de&gt; <br><b>Gesendet:</b> Mittwoch, 11. März 2026 15:23<br><b>An:</b> suess@mrt-kompetenzzentrum.de<br><b>Betreff:</b> Re: Test incoming...<o:p></o:p></span></p></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Super! Danke für deine NAchricht ---<o:p></o:p></span></p></div></body></html>",
+        "text": "Классно, я могу принимать письма\n\n \n\nMit freundlichen Grüßen\n\n \n\nSergej Süss\n\n \n\nMRT Kompetenzzentrum\n\nSchloss Werneck\n\nBalthasar-Neumann-Platz 1\n\n97440 Werneck\n\n \n\nTel.: +49 (0)9722 94 73 24\n\nFax : +49 (0)9722 94 73 26\n\n \n\nE-Mail:  <mailto:info@mrt-kompetenzzentrum.de> info@mrt-kompetenzzentrum.de\n\nWeb:     <http://www.mrt-kompetenzzentrum.de/> www.mrt-kompetenzzentrum.de\n\n \n\nVon: test.ser.physio@mrt-kompetenzzentrum.de <test.ser.physio@mrt-kompetenzzentrum.de> \nGesendet: Mittwoch, 11. März 2026 15:23\nAn: suess@mrt-kompetenzzentrum.de\nBetreff: Re: Test incoming...\n\n \n\nSuper! Danke für deine NAchricht ---\n\n"
+      }
+    },
+    "ARCHIV:1": {
+      "updatedAt": 1773244466858,
+      "email": {
+        "uid": 1,
+        "subject": "(Kein Betreff)",
+        "from": "",
+        "date": "",
+        "flags": [],
+        "html": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=Content-Type content=\"text/html; charset=iso-8859-1\"><meta name=Generator content=\"Microsoft Word 15 (filtered medium)\"><style><!--\n/* Font Definitions */\n@font-face\n\t{font-family:\"Cambria Math\";\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;}\n@font-face\n\t{font-family:Calibri;\n\tpanose-1:2 15 5 2 2 2 4 3 2 4;}\n/* Style Definitions */\np.MsoNormal, li.MsoNormal, div.MsoNormal\n\t{margin:0cm;\n\tfont-size:11.0pt;\n\tfont-family:\"Calibri\",sans-serif;\n\tmso-fareast-language:EN-US;}\nspan.E-MailFormatvorlage17\n\t{mso-style-type:personal-compose;\n\tfont-family:\"Calibri\",sans-serif;\n\tcolor:windowtext;}\n.MsoChpDefault\n\t{mso-style-type:export-only;\n\tfont-family:\"Calibri\",sans-serif;\n\tmso-fareast-language:EN-US;}\n@page WordSection1\n\t{size:612.0pt 792.0pt;\n\tmargin:70.85pt 70.85pt 2.0cm 70.85pt;}\ndiv.WordSection1\n\t{page:WordSection1;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext=\"edit\" spidmax=\"1026\" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext=\"edit\">\n<o:idmap v:ext=\"edit\" data=\"1\" />\n</o:shapelayout></xml><![endif]--></head><body lang=DE link=\"#0563C1\" vlink=\"#954F72\" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Mit freundlichen Grüßen<o:p></o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Sergej Süss<o:p></o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><b><span style='font-size:9.0pt;color:#767171;mso-fareast-language:DE'>MRT Kompetenzzentrum<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:9.0pt;color:#767171;mso-fareast-language:DE'>Schloss Werneck<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Balthasar-Neumann-Platz 1<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>97440 Werneck<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Tel.: +49 (0)9722 94 73 24<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Fax</span></b><b><span style='font-size:5.0pt;color:#AEAAAA;mso-fareast-language:DE'> </span></b><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>: +49 (0)9722 94 73 26<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>E-Mail: <a href=\"mailto:info@mrt-kompetenzzentrum.de\"><span style='color:#AEAAAA'>info@mrt-kompetenzzentrum.de</span></a><o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Web:&nbsp;&nbsp;&nbsp; <a href=\"http://www.mrt-kompetenzzentrum.de/\"><span style='color:#AEAAAA'>www.mrt-kompetenzzentrum.de</span></a><o:p></o:p></span></b></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>",
+        "text": " \n\n \n\nMit freundlichen Grüßen\n\n \n\nSergej Süss\n\n \n\nMRT Kompetenzzentrum\n\nSchloss Werneck\n\nBalthasar-Neumann-Platz 1\n\n97440 Werneck\n\n \n\nTel.: +49 (0)9722 94 73 24\n\nFax : +49 (0)9722 94 73 26\n\n \n\nE-Mail:  <mailto:info@mrt-kompetenzzentrum.de> info@mrt-kompetenzzentrum.de\n\nWeb:     <http://www.mrt-kompetenzzentrum.de/> www.mrt-kompetenzzentrum.de\n\n \n\n"
+      }
+    },
+    "OUTBOX:2": {
+      "updatedAt": 1773244164189,
+      "email": {
+        "uid": 2,
+        "subject": "(Kein Betreff)",
+        "from": "",
+        "date": "",
+        "flags": [],
+        "html": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=Content-Type content=\"text/html; charset=utf-8\"><meta name=Generator content=\"Microsoft Word 15 (filtered medium)\"><style><!--\n/* Font Definitions */\n@font-face\n\t{font-family:\"Cambria Math\";\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;}\n@font-face\n\t{font-family:Calibri;\n\tpanose-1:2 15 5 2 2 2 4 3 2 4;}\n/* Style Definitions */\np.MsoNormal, li.MsoNormal, div.MsoNormal\n\t{margin:0cm;\n\tfont-size:11.0pt;\n\tfont-family:\"Calibri\",sans-serif;\n\tmso-fareast-language:EN-US;}\nspan.E-MailFormatvorlage17\n\t{mso-style-type:personal-reply;\n\tfont-family:\"Calibri\",sans-serif;\n\tcolor:windowtext;}\n.MsoChpDefault\n\t{mso-style-type:export-only;\n\tfont-family:\"Calibri\",sans-serif;\n\tmso-fareast-language:EN-US;}\n@page WordSection1\n\t{size:612.0pt 792.0pt;\n\tmargin:70.85pt 70.85pt 2.0cm 70.85pt;}\ndiv.WordSection1\n\t{page:WordSection1;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext=\"edit\" spidmax=\"1026\" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext=\"edit\">\n<o:idmap v:ext=\"edit\" data=\"1\" />\n</o:shapelayout></xml><![endif]--></head><body lang=DE link=\"#0563C1\" vlink=\"#954F72\" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal><span lang=RU>Классно, я могу принимать письма<o:p></o:p></span></p><p class=MsoNormal><span lang=RU><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Mit freundlichen Grüßen<o:p></o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Sergej Süss<o:p></o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><b><span style='font-size:9.0pt;color:#767171;mso-fareast-language:DE'>MRT Kompetenzzentrum<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:9.0pt;color:#767171;mso-fareast-language:DE'>Schloss Werneck<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Balthasar-Neumann-Platz 1<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>97440 Werneck<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Tel.: +49 (0)9722 94 73 24<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Fax</span></b><b><span style='font-size:5.0pt;color:#AEAAAA;mso-fareast-language:DE'> </span></b><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>: +49 (0)9722 94 73 26<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>E-Mail: <a href=\"mailto:info@mrt-kompetenzzentrum.de\"><span style='color:#AEAAAA'>info@mrt-kompetenzzentrum.de</span></a><o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Web:&nbsp;&nbsp;&nbsp; <a href=\"http://www.mrt-kompetenzzentrum.de/\"><span style='color:#AEAAAA'>www.mrt-kompetenzzentrum.de</span></a><o:p></o:p></span></b></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='mso-fareast-language:DE'>Von:</span></b><span style='mso-fareast-language:DE'> test.ser.physio@mrt-kompetenzzentrum.de &lt;test.ser.physio@mrt-kompetenzzentrum.de&gt; <br><b>Gesendet:</b> Mittwoch, 11. März 2026 15:23<br><b>An:</b> suess@mrt-kompetenzzentrum.de<br><b>Betreff:</b> Re: Test incoming...<o:p></o:p></span></p></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Super! Danke für deine NAchricht ---<o:p></o:p></span></p></div></body></html>",
+        "text": "Классно, я могу принимать письма\n\n \n\nMit freundlichen Grüßen\n\n \n\nSergej Süss\n\n \n\nMRT Kompetenzzentrum\n\nSchloss Werneck\n\nBalthasar-Neumann-Platz 1\n\n97440 Werneck\n\n \n\nTel.: +49 (0)9722 94 73 24\n\nFax : +49 (0)9722 94 73 26\n\n \n\nE-Mail:  <mailto:info@mrt-kompetenzzentrum.de> info@mrt-kompetenzzentrum.de\n\nWeb:     <http://www.mrt-kompetenzzentrum.de/> www.mrt-kompetenzzentrum.de\n\n \n\nVon: test.ser.physio@mrt-kompetenzzentrum.de <test.ser.physio@mrt-kompetenzzentrum.de> \nGesendet: Mittwoch, 11. März 2026 15:23\nAn: suess@mrt-kompetenzzentrum.de\nBetreff: Re: Test incoming...\n\n \n\nSuper! Danke für deine NAchricht ---\n\n"
+      }
+    },
+    "INBOX:3": {
+      "updatedAt": 1773243588031,
+      "email": {
+        "uid": 3,
+        "subject": "(Kein Betreff)",
+        "from": "",
+        "date": "",
+        "flags": [],
+        "html": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=Content-Type content=\"text/html; charset=utf-8\"><meta name=Generator content=\"Microsoft Word 15 (filtered medium)\"><style><!--\n/* Font Definitions */\n@font-face\n\t{font-family:\"Cambria Math\";\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;}\n@font-face\n\t{font-family:Calibri;\n\tpanose-1:2 15 5 2 2 2 4 3 2 4;}\n/* Style Definitions */\np.MsoNormal, li.MsoNormal, div.MsoNormal\n\t{margin:0cm;\n\tfont-size:11.0pt;\n\tfont-family:\"Calibri\",sans-serif;\n\tmso-fareast-language:EN-US;}\nspan.E-MailFormatvorlage17\n\t{mso-style-type:personal-reply;\n\tfont-family:\"Calibri\",sans-serif;\n\tcolor:windowtext;}\n.MsoChpDefault\n\t{mso-style-type:export-only;\n\tfont-family:\"Calibri\",sans-serif;\n\tmso-fareast-language:EN-US;}\n@page WordSection1\n\t{size:612.0pt 792.0pt;\n\tmargin:70.85pt 70.85pt 2.0cm 70.85pt;}\ndiv.WordSection1\n\t{page:WordSection1;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext=\"edit\" spidmax=\"1026\" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext=\"edit\">\n<o:idmap v:ext=\"edit\" data=\"1\" />\n</o:shapelayout></xml><![endif]--></head><body lang=DE link=\"#0563C1\" vlink=\"#954F72\" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal>Sehr geehrte/r Herr/Frau Müller,<br><br>bitte füllen Sie vor Ihrer Untersuchung das Patientenformular aus.<br><br>Link:<br>https://mrt-kompetenzzentrum.de/form/CASE-20342<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Mit freundlichen Grüßen<o:p></o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Sergej Süss<o:p></o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><b><span style='font-size:9.0pt;color:#767171;mso-fareast-language:DE'>MRT Kompetenzzentrum<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:9.0pt;color:#767171;mso-fareast-language:DE'>Schloss Werneck<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Balthasar-Neumann-Platz 1<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>97440 Werneck<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Tel.: +49 (0)9722 94 73 24<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Fax</span></b><b><span style='font-size:5.0pt;color:#AEAAAA;mso-fareast-language:DE'> </span></b><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>: +49 (0)9722 94 73 26<o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>E-Mail: <a href=\"mailto:info@mrt-kompetenzzentrum.de\"><span style='color:#AEAAAA'>info@mrt-kompetenzzentrum.de</span></a><o:p></o:p></span></b></p><p class=MsoNormal><b><span style='font-size:8.0pt;color:#AEAAAA;mso-fareast-language:DE'>Web:&nbsp;&nbsp;&nbsp; <a href=\"http://www.mrt-kompetenzzentrum.de/\"><span style='color:#AEAAAA'>www.mrt-kompetenzzentrum.de</span></a><o:p></o:p></span></b></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='mso-fareast-language:DE'>Von:</span></b><span style='mso-fareast-language:DE'> test.ser.physio@mrt-kompetenzzentrum.de &lt;test.ser.physio@mrt-kompetenzzentrum.de&gt; <br><b>Gesendet:</b> Mittwoch, 11. März 2026 15:23<br><b>An:</b> suess@mrt-kompetenzzentrum.de<br><b>Betreff:</b> Re: Test incoming...<o:p></o:p></span></p></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='mso-fareast-language:DE'>Super! Danke für deine NAchricht ---<o:p></o:p></span></p></div></body></html>",
+        "text": "Sehr geehrte/r Herr/Frau Müller,\n\nbitte füllen Sie vor Ihrer Untersuchung das Patientenformular aus.\n\nLink:\nhttps://mrt-kompetenzzentrum.de/form/CASE-20342\n\n \n\nMit freundlichen Grüßen\n\n \n\nSergej Süss\n\n \n\nMRT Kompetenzzentrum\n\nSchloss Werneck\n\nBalthasar-Neumann-Platz 1\n\n97440 Werneck\n\n \n\nTel.: +49 (0)9722 94 73 24\n\nFax : +49 (0)9722 94 73 26\n\n \n\nE-Mail:  <mailto:info@mrt-kompetenzzentrum.de> info@mrt-kompetenzzentrum.de\n\nWeb:     <http://www.mrt-kompetenzzentrum.de/> www.mrt-kompetenzzentrum.de\n\n \n\nVon: test.ser.physio@mrt-kompetenzzentrum.de <test.ser.physio@mrt-kompetenzzentrum.de> \nGesendet: Mittwoch, 11. März 2026 15:23\nAn: suess@mrt-kompetenzzentrum.de\nBetreff: Re: Test incoming...\n\n \n\nSuper! Danke für deine NAchricht ---\n\n"
+      }
+    },
+    "INBOX:4": {
+      "updatedAt": 1773248412374,
+      "email": {
+        "uid": 4,
+        "subject": "(Kein Betreff)",
+        "from": "",
+        "date": "",
+        "flags": [],
+        "html": "<div dir=\"auto\">Top</div><div dir=\"auto\">Danke für die Email<br clear=\"all\"><br clear=\"all\"><div dir=\"auto\"><div dir=\"ltr\" class=\"gmail_signature\" data-smartmail=\"gmail_signature\">Mit freundlichen Grüßen <br><br>Sergej Süss</div></div></div><div><br></div><div><br><div class=\"gmail_quote gmail_quote_container\"><div dir=\"ltr\" class=\"gmail_attr\">&lt;<a href=\"mailto:test.ser.physio@mrt-kompetenzzentrum.de\">test.ser.physio@mrt-kompetenzzentrum.de</a>&gt; schrieb am Mi. 11. März 2026 um 16:55:<br></div><blockquote class=\"gmail_quote\" style=\"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex\">hallo</blockquote></div></div>\n",
+        "text": "Top\nDanke für die Email\n\nMit freundlichen Grüßen\n\nSergej Süss\n\n\n<test.ser.physio@mrt-kompetenzzentrum.de> schrieb am Mi. 11. März 2026 um\n16:55:\n\n> hallo\n"
+      }
+    }
+  }
+}
